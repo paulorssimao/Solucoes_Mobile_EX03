@@ -20,6 +20,3 @@ Projeto de uma **calculadora simples** desenvolvido com Kotlin e Jetpack Compose
    ```
 2. Abra o projeto no Android Studio.
 3. Construa e execute o app em um emulador ou dispositivo físico.
-
-## Autor
-- [Seu Nome](https://github.com/SEU_USUARIO)
